@@ -3,7 +3,7 @@ Complete Python Cheatsheet
 <sup>[Download text file](https://raw.githubusercontent.com/sepehrhariri/python-cheatsheet/main/README.md), [Fork me on GitHub](https://github.com/sepehrhariri/python-cheatsheet) or [Check out FAQ](https://github.com/sepehrhariri/python-cheatsheet/wiki/Frequently-Asked-Questions).
 </sup>
 
-
+I'm now sharing it with any Python beginners to help them learn and remember common Python syntax and with intermediate and advanced Python developers as a handy reference. 
 
 Contents
 --------
